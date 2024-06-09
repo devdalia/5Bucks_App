@@ -10,3 +10,4 @@
 
 تجربة مستخدم سلسة: يتيح التطبيق تجربة تسوق سلسة ومريحة، حيث يمكن للمستخدمين اختيار وشراء المنتجات بضغطة زر واحدة.
 
+![Pastel Pink Minimalist Lifestyle Phone Mockup Facebook Cover (1)](https://github.com/devdalia/5Bucks_App/assets/112781192/153061b1-843e-4164-8b4f-775e19a12ff4)
